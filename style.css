@@ -1,0 +1,13 @@
+.slide-img {
+  width: 520px;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.slide-img-sm {
+  width: 420px;
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
