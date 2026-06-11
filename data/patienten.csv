@@ -1,0 +1,65 @@
+id,name,geburtsdatum,geschlecht,alter,diagnose,aufenthaltsdauer_tage
+P001,Müller Hans,1948-03-12,männlich,76,Herzinsuffizienz,8
+P002,Schmidt Anna,1962-07-24,weiblich,62,Diabetes Typ 2,4
+P003,Wagner Klaus,1975-11-05,männlich,49,Appendizitis,3
+P004,Becker Maria,1990-01-30,weiblich,34,Pneumonie,6
+P005,Fischer Thomas,1955-09-18,männlich,69,Hüftfraktur,14
+P006,Hoffmann Laura,1983-04-22,weiblich,41,Gallenblasenentzündung,5
+P007,Schäfer Peter,1940-12-01,männlich,84,Schlaganfall,21
+P008,Koch Sandra,1998-06-15,weiblich,26,Blinddarmentzündung,3
+P009,Bauer Markus,1967-02-28,männlich,57,Herzinfarkt,10
+P010,Richter Ursula,1952-08-09,weiblich,72,Knieprothese,12
+P011,Klein Jürgen,1979-10-17,männlich,45,Nierensteine,4
+P012,Wolf Sabine,1988-05-03,weiblich,36,Fehlgeburt,2
+P013,Schröder Dieter,1945-01-14,männlich,79,COPD,9
+P014,Neumann Petra,1971-03-27,weiblich,53,Brustkrebs OP,7
+P015,Schwarz Rolf,1960-11-11,männlich,64,Bypass-OP,15
+P016,Zimmermann Inge,1935-07-06,weiblich,89,Hüftfraktur,18
+P017,Braun Stefan,1992-09-23,männlich,32,Sportverletzung Knie,5
+P018,Krüger Monika,1958-04-16,weiblich,66,Vorhofflimmern,6
+P019,Hartmann Bernd,1970-12-30,männlich,54,Magengeschwür,5
+P020,Lange Helga,1947-06-08,weiblich,77,Demenz,30
+P021,Werner Frank,1985-02-19,männlich,39,Rückenschmerzen,3
+P022,Köhler Elisabeth,1963-08-25,weiblich,61,Schilddrüsenoperation,4
+P023,Meyer Günter,1953-05-31,männlich,71,Prostatakrebs,11
+P024,Schmitt Claudia,1977-10-04,weiblich,47,Migräne,2
+P025,Schulz Andreas,1995-03-13,männlich,29,Appendizitis,3
+P026,Maier Renate,1942-09-07,weiblich,82,Herzinsuffizienz,13
+P027,Herrmann Tobias,1980-01-22,männlich,44,Nierenversagen,16
+P028,König Angelika,1969-07-17,weiblich,55,Darmkrebs OP,14
+P029,Walter Horst,1956-11-29,männlich,68,Diabetes Typ 2,5
+P030,Mayer Brigitte,1938-04-03,weiblich,86,Lungenentzündung,10
+P031,Huber Florian,1993-06-26,männlich,31,Hodenentzündung,4
+P032,Kaiser Sonja,1974-02-14,weiblich,50,Hysterektomie,6
+P033,Peters Wolfgang,1949-08-19,männlich,75,Parkinson,22
+P034,Fuchs Christine,1987-12-08,weiblich,37,Eileiterschwangerschaft,3
+P035,Lehmann Manfred,1961-05-20,männlich,63,Herzrhythmusstörung,7
+P036,Keller Ingrid,1944-10-11,weiblich,80,Kataraktoperation,1
+P037,Weiß Dominik,1997-03-05,männlich,27,Leistenbruch,2
+P038,Brandt Hildegard,1950-07-28,weiblich,74,Schlaganfall,19
+P039,Hahn Rainer,1966-01-09,männlich,58,Magenkrebs OP,12
+P040,Krause Martina,1982-09-16,weiblich,42,Geburt,4
+P041,Vogel Stephan,1972-04-24,männlich,52,Bandscheibenvorfall,8
+P042,Roth Erika,1939-12-17,weiblich,85,Herzinsuffizienz,17
+P043,Zimmermann Paul,1991-06-02,männlich,33,Sportverletzung Schulter,4
+P044,Sommer Ursula,1957-02-11,weiblich,67,Darmverschluss,9
+P045,Frank Joachim,1946-08-30,männlich,78,Blasenkrebs OP,11
+P046,Berg Katrin,1984-11-21,weiblich,40,Appendizitis,3
+P047,Günther Karl,1968-05-14,männlich,56,Leberzirrhose,20
+P048,Böhm Hannelore,1953-03-07,weiblich,71,Knieprothese,13
+P049,Schreiber Lukas,1996-09-29,männlich,28,Nierensteine,3
+P050,Lorenz Gisela,1941-07-18,weiblich,83,Lungenentzündung,12
+P051,Simon Hendrik,1978-01-05,männlich,46,Herzinfarkt,11
+P052,Schulte Anneliese,1959-04-23,weiblich,65,Hüftprothese,14
+P053,Groß Benedikt,1989-10-10,männlich,35,Nierenkolik,2
+P054,Ernst Waltraud,1948-06-16,weiblich,76,Schlaganfall,24
+P055,Böttcher Sebastian,1973-02-28,männlich,51,Gallenblase OP,4
+P056,Seidel Margarete,1936-12-04,weiblich,88,Hüftfraktur,21
+P057,Heinrich Carsten,1964-08-13,männlich,60,Bypass-OP,16
+P058,Bremer Julia,1994-05-07,weiblich,30,Geburt (Kaiserschnitt),5
+P059,Fuchs Norbert,1955-11-25,männlich,69,COPD,8
+P060,Seifert Rosemarie,1943-03-19,weiblich,81,Herzinsuffizienz,15
+P061,Krämer Dennis,1986-07-31,männlich,38,Leistenbruch,2
+P062,Otto Elfriede,1950-01-12,weiblich,74,Darmkrebs OP,13
+P063,Lange Philipp,1999-09-04,männlich,25,Sportverletzung Knie,4
+P064,Hausmann Gertrude,1937-05-22,weiblich,87,Lungenentzündung,11
